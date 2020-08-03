@@ -226,5 +226,5 @@ def dragon():
 
 print('''Your a hero.
     You have to kill the dragon.
-    Now fuck off.''')
+    Now Go! ''')
 map()
