@@ -1,4 +1,4 @@
-# Dragon Killer (***Title Pending***)
+# Dragon Killer 
 ---
 A text adventure game i made using **Python**.
 
