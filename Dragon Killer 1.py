@@ -218,7 +218,7 @@ def dragon():
             Game Over''')
         exit()
     if(current_state == all_possible_states[5]):
-        print('''How do you plan on killing the dragon with a fucking ring?
+        print('''How do you plan on killing the dragon with a ring?
             Dragon eats you.
             You Lose''')
         exit()
