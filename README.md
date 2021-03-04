@@ -2,4 +2,4 @@
 ---
 A text adventure game i made using **Python**.
 
-Plan to make a sequel soon using a better Algorithm and a *GUI*.
+**Update 04/03/2021** - Updated code using State Machine Algorithm and story on a seperate file  
