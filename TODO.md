@@ -1,4 +1,4 @@
-#Todo
+# Todo
 
 - [ ] Rewrite story from scratch. Dungeon exploration to kill evil dragon.
 - [ ] Implement starting class system
