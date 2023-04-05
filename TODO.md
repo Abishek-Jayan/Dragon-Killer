@@ -1,5 +1,6 @@
 # Todo
 
+- [ ]  Modularise code
 - [ ] Rewrite story from scratch. Dungeon exploration to kill evil dragon.
 - [ ] Implement starting class system
 - [ ] Implement hitpoints, mana and inventory system

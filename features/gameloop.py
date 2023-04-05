@@ -1,16 +1,7 @@
-from GameContents import *
-start = "Your a hero.\nYou have to kill the dragon.\nNow Go!\n"
+from files.GameContents import *
 
-current_state = "map"
-previous_state = "nil"
-physical_state = "nil"
-inventory = ""
-prev_item = ""
-
-
-def gameloop():
+def gameloop(current_state, previous_state, physical_state, inventory):
     gamerun = True
-    global current_state, previous_state, physical_state, inventory
     while gamerun:
         print(state_machine[current_state][0])
         print("\n")
@@ -91,12 +82,3 @@ def gameloop():
                                 
                                 end = input()
                     break
-
-
-def main():
-    print(start)
-    gameloop()
-
-
-if __name__ == "__main__":
-    main()
